@@ -18,6 +18,7 @@ class Result_VC: Parents_VC {
         self.navigationItem.title = "历史上的今天"
         self.createUI()
         self.getData()
+        print("2345")
     }
     
     
